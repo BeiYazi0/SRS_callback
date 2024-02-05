@@ -43,7 +43,7 @@ hls: http://ip:port/app/stream.m3u8?username=xxx?key=xxx
 
 ## 管理
 
-http://127.0.0.1:7777/
+http://127.0.0.1:7777/srsCallbackLogin
 
 账户: admin 密码:123456
 
