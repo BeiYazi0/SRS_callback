@@ -39,7 +39,7 @@ rtmp: rtmp://ip/app/stream?username=xxx?key=xxx
 
 http-flv: http://ip:port/app/stream.flv?username=xxx?key=xxx
 
-hls: rtmp://ip:port/app/stream.m3u8?username=xxx?key=xxx
+hls: http://ip:port/app/stream.m3u8?username=xxx?key=xxx
 
 ## 管理
 
